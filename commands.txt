@@ -1,0 +1,15 @@
+# git Commits code
+1. git init --->to intilize the git repo
+2. git add.  ---> to add the changes made in the file
+3. git commit -m "some info"    --> to commit the changes
+4. git config --global user.name setusername
+5. git config --global user.email setuseremail
+6. git congfig -- global user.email   ---> to se the registed user email
+7. git config --global user.name   ----> to get info regarding the username
+8. git log   --> to c all the commits 
+9 git log -online
+
+10.git remote add origin https://github.com/Ishwar2510/AllGitCommand.git
+   git branch -M main
+   git push -u origin main
+11. if ever u run into 403 error change the window credential under controlpanel/credential
