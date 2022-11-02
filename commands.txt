@@ -30,3 +30,6 @@
 
 ###### creating and switching between branches ########
 25  git checkout -b newbranch   ---> this will create a newwer branch with name newbranch
+
+26 git push origin devloperA  ---> as a devloper just push in ur 
+27 git push origin devloperB -->as a devloper just pous in ur 
