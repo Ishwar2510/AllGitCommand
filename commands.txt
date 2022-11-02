@@ -31,3 +31,7 @@
 ###### creating and switching between branches ########
 25  git checkout -b newbranch   ---> this will create a newwer branch with name newbranch
 26 git branch  ---> will show u the list of all the branches
+
+## branching and merging ###
+push pull merge 
+merge will always be done from the master file
