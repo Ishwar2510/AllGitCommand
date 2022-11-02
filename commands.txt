@@ -17,4 +17,4 @@
 13 . git  --> for all git commands
 14  git config --list
 15  in .gitignore *.log  it will eliminate all log file from being committeed
-
+16 git diff       it will check the diff between the file in stagging area and the the current working file...
