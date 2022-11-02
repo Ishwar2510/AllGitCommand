@@ -17,4 +17,6 @@
 13 . git  --> for all git commands
 14  git config --list
 15  in .gitignore *.log  it will eliminate all log file from being committeed
-16 git diff       it will check the diff between the file in stagging area and the the current working file...
+16  git diff       it will check the diff between the file in stagging area and the the current working file... workingdirectorv vs staged area
+17  git diff --staged   ----> it will o/p all the changes between last commit and this commit  ...  comitted vs staged...
+18  git restore --staged filename    --> to unstage the file  to remove the file from the stagging area
