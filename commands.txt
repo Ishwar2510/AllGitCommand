@@ -16,5 +16,5 @@
 12 . git push origin
 13 . git  --> for all git commands
 14  git config --list
-15  in .gitignore *log  it will eliminate all log file from being committeed
+15  in .gitignore *.log  it will eliminate all log file from being committeed
 
