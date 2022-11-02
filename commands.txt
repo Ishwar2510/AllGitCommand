@@ -20,3 +20,13 @@
 16  git diff       it will check the diff between the file in stagging area and the the current working file... workingdirectorv vs staged area
 17  git diff --staged   ----> it will o/p all the changes between last commit and this commit  ...  comitted vs staged...
 18  git restore --staged filename    --> to unstage the file  to remove the file from the stagging area
+19 git restore filename  --->  it will replca the file with the last commit
+20 git checkout -f
+21 git checkout filename 
+22 git mv fail.txt file.txt  ---> to rename the file it will be directly moved to the stagging area
+23  git rm filename   ---> to remove/delete file
+24 git rm --cached filename  --> to delete the file tht was previously in the stagged area and now which u dont want to be tracked 
+
+
+###### creating and switching between branches ########
+25  git checkout -b newbranch   ---> this will create a newwer branch with name newbranch
