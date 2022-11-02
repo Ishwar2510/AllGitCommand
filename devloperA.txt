@@ -1,1 +1,3 @@
 this fike has been created by the first devloper 
+
+i will make some alteration in this fike and use git push origin
