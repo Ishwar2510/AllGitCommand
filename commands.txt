@@ -13,3 +13,8 @@
    git branch -M main
    git push -u origin main
 11. if ever u run into 403 error change the window credential under controlpanel/credential
+12 . git push origin
+13 . git  --> for all git commands
+14  git config --list
+15  in .gitignore *log  it will eliminate all log file from being committeed
+
